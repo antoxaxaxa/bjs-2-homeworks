@@ -1,6 +1,6 @@
 "use strict"
 function solveEquation(a,b,c){ 
-  
+  let desk;
   desk = Math.pow(b,2)+4*a*c;
   if (desk === 0){
     let sum = [];
