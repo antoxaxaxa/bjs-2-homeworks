@@ -16,8 +16,8 @@ function solveEquation(a,b,c){
     return sum;  
   }
   else{
-    let desk=[];
-    return desk;
+    let sum=[];
+    return sum;
   }
 }
 
