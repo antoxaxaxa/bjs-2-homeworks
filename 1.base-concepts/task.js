@@ -12,7 +12,7 @@ function solveEquation(a,b,c){
     let sum = [];
     otv1 = (-b + Math.sqrt(d) )/(2*a);
     otv2 = (-b - Math.sqrt(d) )/(2*a);
-    sum.push(otv,otv2);
+    sum.push(otv1,otv2);
     return sum;  
   }
   else{
